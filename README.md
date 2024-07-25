@@ -1,0 +1,2 @@
+# amee
+My mini project 
